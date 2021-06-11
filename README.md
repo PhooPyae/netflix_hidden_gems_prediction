@@ -1,3 +1,6 @@
+The link to the medium blog post
+https://medium.com/p/622062af6404/edit
+
 # Predict the hidden gem score of a movie on Netflix
 
 ![netflix_vft6 jpg](https://user-images.githubusercontent.com/20230956/120425038-868e1780-c393-11eb-856b-6c7499b46d20.png)
@@ -30,4 +33,5 @@ In project, there will be 3 different business understanding for movie industrie
 ### 3. The Prediction of Hidden Gem Score
 
 ![mae](https://user-images.githubusercontent.com/20230956/120663475-0f9a7100-c4b0-11eb-861f-cc2fd5343d8a.png)
+
 
